@@ -1,0 +1,1 @@
+FROM halohub/halo:latest
